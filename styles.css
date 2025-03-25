@@ -6,16 +6,20 @@
 }
 
 /* CSS Variable Declaration */
-:root{
-    --main-text-color: #333;
-    --primary-color: blue;
-    --secondary-color: #ffcc00;
-    --footer-color: #222;
-    --main-background-color: #f4f4f9;
-    --about-color: #f9f9f9;
-    --light-color: white;
-    --project-card-color: #e0e0e0;
-    --project-color: #f0f0f0;
+:root {
+    --main-text-color: #212121;
+    --primary-color: #2ecc71; /* Green */
+    --secondary-color: #f39c12; /* Amber */
+    --footer-color: #2c3e50;
+    --main-background-color: #ecf0f1;
+    --about-color: #ffffff;
+    --light-color: #ffffff;
+    --project-card-color: #bdc3c7;
+    --project-color: #eaeaea;
+}
+
+img{
+    object-fit: cover;
 }
 
 
